@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @edilmita
-- 👀 I’m interested in Learn and applying my acknowledgment in my currier in Data science 
-- 🌱 I’m currently learning Python, R, and SQL
-- 📫 How to reach me ...by email edilmita111@gmail.com
+- 👋 Hi, I’m Edilma
+- 👀 I’m interested in learning and applying my knowledge in my new job in Data Science 
+- 🌱 I’m improve my skills in Python, R, and SQL
+- 📫 Please reach me by email edilmita111@gmail.com
 
 <!---
 edilmita/edilmita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
